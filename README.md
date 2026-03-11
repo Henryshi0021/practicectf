@@ -1,1 +1,1 @@
-# practicectf
+# Images for test CTF
